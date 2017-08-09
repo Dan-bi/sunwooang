@@ -1,9 +1,9 @@
-# sunwoo-s-angangman
+ï»¿# sunwoo-s-angangman
 
-µö·¯´× °øºÎ¸¦ À§ÇÑ ÆÀ Repository ÀÔ´Ï´Ù. 
+ë”¥ëŸ¬ë‹ ê³µë¶€ë¥¼ ìœ„í•œ íŒ€ Repository ìž…ë‹ˆë‹¤. 
 
-»õ·Î¿î ÀÌ¸§ÀÌ »¡¸® ÇÊ¿äÇØ¿ä! ÀÌ»óÇØµµ ÁÁÀ¸´Ï Á»´õ ÂªÀ¸¸é ÁÁ°Ú½À´Ï´Ù. 
+ìƒˆë¡œìš´ ì´ë¦„ì´ ë¹¨ë¦¬ í•„ìš”í•´ìš”! ì´ìƒí•´ë„ ì¢‹ìœ¼ë‹ˆ ì¢€ë” ì§§ìœ¼ë©´ ì¢‹ê² ìŠµë‹ˆë‹¤. 
 
 -------------------------------------
 
-±êÇé »ç¿ë¹ý¿¡ ´ëÇØ¼­´Â first_time_setup Æú´õ¸¦ ÂüÁ¶ÇØÁÖ¼¼¿ä
+ê¹ƒí—™ ì‚¬ìš©ë²•ì— ëŒ€í•´ì„œëŠ” first_time_setup í´ë”ë¥¼ ì°¸ì¡°í•´ì£¼ì„¸ìš”

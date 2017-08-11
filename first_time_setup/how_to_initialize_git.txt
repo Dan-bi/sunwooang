@@ -23,6 +23,6 @@ git config --global user.emai
 
 3. 이제 Repository에서 내용을 긁어올겁니다. 
 
-git clone https://github.com/applegum94/sunwoo-s-angangman 이 커맨드를 입력하세요
+git clone https://github.com/applegum94/sunwooang 이 커맨드를 입력하세요
 시작 경로는 바탕화면에 해도 좋을 것 같습니다. 보기 편하니까요 
 

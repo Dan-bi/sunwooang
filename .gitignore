@@ -1,2 +1,6 @@
-# Intelij Config 디렉토리에 있는 모든 파일은 무시
+# Ignore all files in Intelij Configuration Folder
 .idea/
+
+# Ignore all python cache files
+*.pyc
+*.pyo
